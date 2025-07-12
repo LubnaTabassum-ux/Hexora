@@ -1,0 +1,8 @@
+event_type,device_type,severity,prediction,confidence
+PORT_SCAN,router,high,true_positive,94
+FAILED_LOGIN,firewall,low,false_positive,61
+MALWARE,endpoint,high,true_positive,96
+DDoS,ids,medium,true_positive,88
+DATA_EXFILTRATION,siem,medium,true_positive,91
+FAILED_LOGIN,router,low,false_positive,59
+PORT_SCAN,firewall,medium,false_positive,70

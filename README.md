@@ -16,7 +16,7 @@ Our system intelligently classifies security alerts from network devices into tr
 - Risk-level visualization and alert confidence scoring
 - Real-time prediction logging + explainability placeholders
 
-## 🛠Tech Stack
+## Tech Stack
 - Python, Flask, Streamlit, scikit-learn
 - HTML/CSS animation via Streamlit markdown
 - Matplotlib, pandas, joblib, fpdf
